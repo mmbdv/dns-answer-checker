@@ -26,4 +26,5 @@ Domain:  google.com      -  DIFF
 Domain:  youtube.com     -  DIFF
 Domain:  yandex.ru       -  SAME
 Domain:  bing.com        -  SAME
-Domain:  duckduckgo.com  -  SAME```
+Domain:  duckduckgo.com  -  SAME
+```
