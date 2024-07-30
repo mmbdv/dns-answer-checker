@@ -1,4 +1,6 @@
-./dns_check.sh 
+./dns_check.sh
+
+```
 ----------------------------------------------------------------------------------------- example
 Domain                         Server 8.8.8.8                           Server 8.8.4.4                          
 ------                         -----------------                        -----------------                       
@@ -24,4 +26,4 @@ Domain:  google.com      -  DIFF
 Domain:  youtube.com     -  DIFF
 Domain:  yandex.ru       -  SAME
 Domain:  bing.com        -  SAME
-Domain:  duckduckgo.com  -  SAME
+Domain:  duckduckgo.com  -  SAME```
