@@ -8,6 +8,7 @@ check_dns() {
 
 server1="" #DNS1 ip addr
 server2="" #DNS2 ip addr
+#list of domains
 domains=("google.com" "youtube.com" "yandex.ru" "bing.com" "duckduckgo.com")
 
 declare -A results1
