@@ -3,7 +3,7 @@ rm .null &> /dev/null
 check_dns() {
     local server=$1
     local domain=$2
-    dig @$server $domain +short  
+    dig @$server $domain +short  | sort
 }
 
 server1="" #DNS1 ip addr
